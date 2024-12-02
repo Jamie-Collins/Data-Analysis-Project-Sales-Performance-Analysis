@@ -1,13 +1,5 @@
 
-# Data-Analysis-Project: Sales Performance Analysis
 
-## Project Overview
-This repository showcases a comprehensive sales performance analysis project, leveraging data analysis techniques and visualization to derive actionable insights from sales data across various dimensions like time, geography, and product categories.
-
-### Project Goals
-- Uncover sales trends and anomalies.
-- Predict future sales using historical data.
-- Assess marketing campaign effectiveness.
 
 ## Tools & Technologies
 - **Python**: Core language for data manipulation and analysis.
